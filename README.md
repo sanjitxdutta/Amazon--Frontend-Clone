@@ -8,7 +8,7 @@ This project is a **static front-end clone** of the Amazon homepage built using 
 
 ## 📁 Project Structure
 
-Amazon-Flone-Clone/
+Amazon-Frontend-Clone/
 ├── index.html 
 ├── style.css 
 ├── Final-page.png 
